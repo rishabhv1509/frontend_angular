@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## What it does
+
+This app fetches data from API and display it.
+
+## How to deploy
+
+Use master branch and run npm install in console.
+This app uses rxjs@6.0.0, rxjs-compat@6.0.0, bootstrap.
